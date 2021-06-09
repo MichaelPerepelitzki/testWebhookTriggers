@@ -8,7 +8,7 @@ import MapScreen from "./views/MapScreen";
 import NewReportScreen from "./views/NewReportScreen";
 import { StyleSheet, Text, View } from 'react-native';
 
-//random change
+//random change again
 
 // Configure JSS
 const Stack = createStackNavigator();
